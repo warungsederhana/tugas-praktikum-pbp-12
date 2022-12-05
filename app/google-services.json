@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747911531703",
+    "project_id": "praktikum12-dd86b",
+    "storage_bucket": "praktikum12-dd86b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747911531703:android:def87ce42a12c8f17ad132",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan_11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747911531703-fm1s3hvgfapnt6ft3g00856q3fa35j70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLHG7DYeM-FKv3I5gD3vECdSmR9V60F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747911531703-fm1s3hvgfapnt6ft3g00856q3fa35j70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
